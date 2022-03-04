@@ -8,4 +8,4 @@ Hardwares, eventually.
 I'm looking forward to collaborate in projects with this area. Whenever we have to take decisions based on data and matematical modelling, I'm on and willing to help.
 
 
-- 📫 How to reach me: Feel free to contact me on my e-mail "octmathias@gmail.com" and even here, in gitHub
+- 📫 How to reach me: Feel free to contact me on my e-mail "octmathias@gmail.com" and even here, on gitHub
